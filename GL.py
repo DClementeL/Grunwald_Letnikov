@@ -1,8 +1,8 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-# Test version, Daniel Clemente Lopez
-
+# Test version 1.0, Daniel Clemente Lopez
+			
 q = 0.99; h = 0.005; hq = pow(h,q)
 	
 tf = 30; n = int(tf/h) +1
